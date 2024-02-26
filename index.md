@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a post-doctoral research fellow in the School of Earth and Ocean Sciences at University of Victoria.
 
 ## Research Interests
 
