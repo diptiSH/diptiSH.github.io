@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a post-doctoral research fellow in the <a href="https://www.uvic.ca/science/seos/index.php/"><font color="green">School of Earth and Ocean Sciences</font></a> at <a href="https://www.uvic.ca/"><font color="green">University of Victoria</font></a> .
+I am a post-doctoral research fellow in the <a href="https://www.uvic.ca/science/seos/index.php/">School of Earth and Ocean Sciences</a> at <a href="https://www.uvic.ca/">University of Victoria</a>.
+
+
 
 ## Research Interests
 
