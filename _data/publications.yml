@@ -4,7 +4,7 @@ main:
     authors: <strong>Dipti Hingmire</strong>, Haruki Hirawasa, Hansi Singh, Philip J. Rasch, Soo Kyung Kim, Subhashis Hazarika, Peetak Mitra, and Kalai Ramea
     <!--conference_short: MICCAI-->
     conference: Authorea Preprints, 2024.
-    link: https://essopenarchive.org/doi/full/10.22541/essoar.170688795.53157095
+    pdf: https://essopenarchive.org/doi/full/10.22541/essoar.170688795.53157095
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
     image: ./assets/img/teaser_example_2.png
