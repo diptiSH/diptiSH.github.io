@@ -1,8 +1,8 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
+  - title: South Asian Summer Monsoon Precipitation is Sensitive to Southern Hemisphere Subtropical Radiation Changes.
+    authors: <strong>Dipti Hingmire</strong>, Haruki Hirawasa, Hansi Singh, Philip J. Rasch, Soo Kyung Kim, Subhashis Hazarika, Peetak Mitra, and Kalai Ramea
+    <!--conference_short: MICCAI-->
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
