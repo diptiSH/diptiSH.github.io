@@ -5,6 +5,8 @@ layout: homepage
 ## About Me
 
 I am a post-doctoral research fellow in the <a href="https://www.uvic.ca/science/seos/index.php/">School of Earth and Ocean Sciences</a> at <a href="https://www.uvic.ca/">University of Victoria</a>.
+My research interest lies in <b> climate dynamics</b> and variability. The central theme of my research
+has been how large-scale dynamics interact with local factors to produce unique regional climates.
 
 
 
