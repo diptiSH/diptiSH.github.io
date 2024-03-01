@@ -7,7 +7,7 @@ main:
     pdf: https://essopenarchive.org/doi/full/10.22541/essoar.170688795.53157095
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
-    <!--image: ./assets/img/SASM_bias_img.png-->
+    image: ./assets/img/SASM_bias_img.png
     notes: Under Review
 
   - title: Climate change response in wintertime widespread fog conditions over the Indo-Gangetic Plains.
@@ -17,7 +17,7 @@ main:
     pdf: https://link.springer.com/article/10.1007/s00382-021-06030-1
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
-    <!--image: ./assets/img/ClimateChangeCMIP6Fog_img.png-->
+    image: ./assets/img/ClimateChangeCMIP6Fog_img.png
     <!--notes: Under Review-->
 
     
@@ -28,7 +28,7 @@ main:
     pdf: https://link.springer.com/article/10.1007/s00382-018-4458-y
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
-    <!--image: ./assets/img/WideFog_img.png-->
+    image: ./assets/img/WideFog_img.png
     <!--notes: Under Review-->
 
   
