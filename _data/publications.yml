@@ -7,8 +7,29 @@ main:
     pdf: https://essopenarchive.org/doi/full/10.22541/essoar.170688795.53157095
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/SASM_bias_img.png
     notes: Under Review
+
+   - title: Climate change response in wintertime widespread fog conditions over the Indo-Gangetic Plains.
+    authors: <strong>Dipti Hingmire</strong>, Ramesh Vellore, R. Krishnan, Manmeet Singh, A. Metya, T. Gokul and D. C. Ayantika 
+    <!--conference_short: MICCAI-->
+    conference: Climate Dynamics, 2022.
+    pdf: https://link.springer.com/article/10.1007/s00382-021-06030-1
+    <!--code: https://github.com/MrGiovanni/ContinualLearning-->
+    <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
+    image: ./assets/img/ClimateChangeCMIP6Fog_img.png
+    <!--notes: Under Review-->
+
+    
+   - title: Widespread fog over the Indo-Gangetic Plains and possible links to boreal winter teleconnections.
+    authors: <strong>Dipti Hingmire</strong>, Ramesh K. Vellore, R. Krishnan, N. V. Ashtikar, Bhupendra B. Singh, Sudhir Sabade and R. K. Madhura  
+    <!--conference_short: MICCAI-->
+    conference: Climate Dynamics, 2019.
+    pdf: https://link.springer.com/article/10.1007/s00382-018-4458-y
+    <!--code: https://github.com/MrGiovanni/ContinualLearning-->
+    <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
+    image: ./assets/img/WideFog_img.png
+    <!--notes: Under Review-->
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
