@@ -8,7 +8,7 @@ main:
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
     image: ./assets/img/SASM_bias_img.png
-    notes: Under Review
+    <!--notes: Under Review-->
 
   - title: Climate change response in wintertime widespread fog conditions over the Indo-Gangetic Plains.
     authors: <strong>Dipti Hingmire</strong>, Ramesh Vellore, R. Krishnan, Manmeet Singh, A. Metya, T. Gokul and D. C. Ayantika 
