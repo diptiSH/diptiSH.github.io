@@ -3,8 +3,8 @@ main:
   - title: South Asian Summer Monsoon Precipitation is Sensitive to Southern Hemisphere Subtropical Radiation Changes.
     authors: <strong>Dipti Hingmire</strong>, Haruki Hirawasa, Hansi Singh, Philip J. Rasch, Soo Kyung Kim, Subhashis Hazarika, Peetak Mitra, and Kalai Ramea
     <!--conference_short: MICCAI-->
-    conference: Authorea Preprints, 2024.
-    pdf: https://essopenarchive.org/doi/full/10.22541/essoar.170688795.53157095
+    conference: Geophysical Research Letters, 2024.
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024GL108499
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
     image: ./assets/img/SASM_bias_img.png
