@@ -1,14 +1,14 @@
 main:
 
- - title: Added value of a priori bias correcting dynamically downscaled data for application to species distribution models- a case study for coastal British Columbia.
+ - title: Added value of a priori bias correcting dynamically downscaled data for application to species distribution models - a case study for coastal British Columbia.
     authors: <strong>Dipti Hingmire</strong>, Jennifer McHenry, Julia Velletta, Vanessa Valenti, and Julia K. Baum
     <!--conference_short: MICCAI-->
-    <!--conference: Geophysical Research Letters, 2024.
+    <!--conference: Geophysical Research Letters, 2024.-->
     pdf: https://eartharxiv.org/repository/object/10194/download/18846/
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
     image: ./assets/img/BiasCorrect_Domain.png
-    notes: Under Review-->
+    notes: Under Review
 
   - title: South Asian Summer Monsoon Precipitation is Sensitive to Southern Hemisphere Subtropical Radiation Changes.
     authors: <strong>Dipti Hingmire</strong>, Haruki Hirawasa, Hansi Singh, Philip J. Rasch, Soo Kyung Kim, Subhashis Hazarika, Peetak Mitra, and Kalai Ramea
