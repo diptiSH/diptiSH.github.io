@@ -3,7 +3,7 @@ main:
   - title: Added value of a priori bias correction for dynamical downscaling - A case study of Coastal British Columbia.
     authors: <strong>Dipti Hingmire</strong>, Jennifer McHenry, Julia Velletta, Vanessa Valenti, and Julia K. Baum
     <!--conference_short: MICCAI-->
-    --conference: PLOS Climate, 2026.
+    conference: PLOS Climate, 2026.
     pdf: https://doi.org/10.1371/journal.pclm.0000717
     <!--code: https://github.com/MrGiovanni/ContinualLearning-->
     <!--bibtex: https://bib.yliu.me/MICCAI23.txt-->
