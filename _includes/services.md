@@ -8,5 +8,6 @@
   <li><a href="https://www.nature.com/srep/">Scientific Reports</a></li>
   <li><a href="https://link.springer.com/journal/382">Climate Dynamics</a></li>
   <li><a href="https://www.tandfonline.com/journals/tato20">Atmosphere-Ocean</a></li>
-   <li><a href="https://link.springer.com/journal/24">Pure and Applied Geophysics</a></li>
+  <li><a href="https://link.springer.com/journal/24">Pure and Applied Geophysics</a></li>
+  <li><a href="https://link.springer.com/journal/703">Meteorology and Atmospheric Physics</a></li>
 </ul>
